@@ -9,7 +9,7 @@ Math, String
 
 ### 🚀 Performance
 - **Runtime:** 3 ms
-- **Memory:** 42.2 MB
+- **Memory:** 42.4 MB
 
 ---
 
